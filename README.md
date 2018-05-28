@@ -5,8 +5,8 @@ the electron with supporting MORE codec powers [SPlayerX]
 
 
 ## [v2.0.1-pre.4] - 2018-05-28
-  - Support WMV 1/2, WMV 3 / WMV-9 / VC-1,
-  - Support WMA 1/2, WMA 3
+  - Support WMV 1/2, WMV 3 / VC-1
+  - Support WMA 1/2
 ## [v2.0.1-pre.3] - 2018-05-24
   - Support MPEG-1/2
   - Support MP2
