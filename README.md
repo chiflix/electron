@@ -1,5 +1,11 @@
+
 # Electron
 the electron with supporting MORE codec powers [SPlayerX]
+
+# NOTE: We have been using [NPM](https://www.npmjs.com/package/@chiflix/electron) managed.
+```shell
+npm i @chiflix/electron
+```
 
 ## Changelog
 
