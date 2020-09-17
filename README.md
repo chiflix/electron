@@ -1,25 +1,11 @@
 
-# Electron
-the electron with supporting MORE codec powers [SPlayerX]
-
-# NOTE: We have been using [NPM](https://www.npmjs.com/package/@chiflix/electron) managed.
-```shell
-npm i @chiflix/electron
-```
-
-## Changelog
+# Electron	# Electron
+the electron with supporting MORE codec powers [SPlayerX]	The electron with supporting MORE codec powers [SPlayerX]
 
 
-## [v2.0.1-pre.4] - 2018-05-28
-  - Support WMV 1/2, WMV 3 / VC-1
-  - Support WMA 1/2
-## [v2.0.1-pre.3] - 2018-05-24
-  - Support MPEG-1/2
-  - Support MP2
-## [v2.0.1-pre.2] - 2018-05-21
+# NOTE: We have been using [NPM](https://www.npmjs.com/package/@chiflix/electron) managed.	# Notice
+We have been using [NPM](https://www.npmjs.com/package/@chiflix/electron) managed.
+```shell	```shell
+npm i @chiflix/electron	npm i @chiflix/electron
+```	```
 
-
-[SPlayerX]: https://github.com/chiflix/splayerx
-[v2.0.1-pre.2]: https://github.com/chiflix/electron/releases/tag/v2.0.1-pre.2
-[v2.0.1-pre.3]: https://github.com/chiflix/electron/releases/tag/v2.0.1-pre.3
-[v2.0.1-pre.4]: https://github.com/chiflix/electron/releases/tag/v2.0.1-pre.4
